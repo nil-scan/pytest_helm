@@ -1,0 +1,10 @@
+site_name: pytest-helm
+site_description: Helpers to test Helm charts
+site_author: Nilscan
+
+theme: readthedocs
+
+repo_url: https://github.com/nilscan/pytest-helm
+
+pages:
+  - Home: index.md
