@@ -1,3 +1,3 @@
-# Welcome to pytest-helm
+# Welcome to pytest_helm
 
 Helpers to test Helm charts

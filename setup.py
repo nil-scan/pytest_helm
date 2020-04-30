@@ -19,7 +19,7 @@ setup(
     maintainer='Nilscan',
     maintainer_email='nilscan31@gmail.com',
     license='MIT',
-    url='https://github.com/nilscan/pytest-helm',
+    url='https://github.com/nilscan/pytest_helm',
     description='Helpers to test Helm charts',
     long_description=read('README.rst'),
     packages=find_packages(),
